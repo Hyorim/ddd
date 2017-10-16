@@ -9,3 +9,6 @@ int foo3(int f3){
 
 int foo4(int f4){
 }
+
+int foo5(int f5){
+}
